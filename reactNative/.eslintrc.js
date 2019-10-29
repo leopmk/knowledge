@@ -25,5 +25,6 @@ module.exports = {
     'react/no-unused-state': 'off',
     'react/jsx-filename-extension': ['warn', { extensions: ['.jsx', '.js'] }],
     'import/prefer-default-export': 'off',
+    'react/no-typos': 'off',
   },
 };
